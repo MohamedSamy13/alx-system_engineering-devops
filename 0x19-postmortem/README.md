@@ -1,4 +1,3 @@
-My First Postmortem
 Introduction
 In the fast-paced world of web development, outages can strike unexpectedly. This postmortem dives into a fictional but realistic scenario where a web application experienced a disruption, emphasizing the importance of thorough investigation, timely resolution, and proactive measures for preventing future incidents.
 Issue Summary
